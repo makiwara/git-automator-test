@@ -1,4 +1,5 @@
 #!/bin/bash
+cd /Users/maki/Desktop/git\ init 
 git fetch --all
 git rebase master
 git add -A .
