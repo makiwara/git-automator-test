@@ -1,0 +1,7 @@
+#!/bin/bash
+cd /Users/maki/Desktop/git\ init 
+while [ "1"="1" ] 
+do
+	./gitall
+	sleep 60 
+done
